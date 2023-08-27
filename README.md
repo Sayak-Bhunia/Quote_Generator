@@ -2,8 +2,8 @@
 
 Welcome to the **Quote Generator** – your source of daily inspiration! ✨
 
-![Quote Generator](![image](https://github.com/Sayak-Bhunia/Quote_Generator/assets/110457746/2ea8c2e7-2069-4c65-8503-5408459ab49d)
-)
+
+![Screenshot 2023-08-27 131907](https://github.com/Sayak-Bhunia/Quote_Generator/assets/110457746/fea2ae03-d22d-4010-a41e-56c38374cce2)
 
 ## 📜 What's It All About?
 
@@ -18,7 +18,7 @@ Feeling stuck? Need a burst of motivation? Look no further! This web application
 
 ## 🌈 How to Use:
 
-1. Simply head to our website: [RandomQuoteGen.com](https://www.randomquotegen.com)
+1. Simply head to our website: [RandomQuoteGen.com](https://sayak-bhunia.github.io/Quote_Generator/)
 2. Click the "Generate Quote" button to uncover a treasure trove of wisdom.
 3. Feeling the quote? Share it or save it for later – the power is in your hands!
 
