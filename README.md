@@ -1,8 +1,9 @@
-# 🌟 Random Quote Generator 🌟
+# 🌟 Quote Generator 🌟
 
-Welcome to the **Random Quote Generator** – your source of daily inspiration! ✨
+Welcome to the **Quote Generator** – your source of daily inspiration! ✨
 
-![Random Quote Generator](screenshot.png)
+![Quote Generator](![image](https://github.com/Sayak-Bhunia/Quote_Generator/assets/110457746/2ea8c2e7-2069-4c65-8503-5408459ab49d)
+)
 
 ## 📜 What's It All About?
 
@@ -26,7 +27,7 @@ Feeling stuck? Need a burst of motivation? Look no further! This web application
 If you're the tech-savvy kind and want to run the Random Quote Generator locally, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/yourusername/random-quote-generator.git`
-2. Navigate to the project directory: `cd random-quote-generator`
+2. Navigate to the project directory: `cd Quote-Generator`
 3. Open `index.html` in your browser – voilà!
 
 ## 🤝 Contribute:
@@ -41,6 +42,6 @@ We believe in the collective power of wisdom. If you've got a favorite quote to 
 
 ## 📬 Contact Us:
 
-Have a suggestion, question, or just want to say hi? Reach out to us at `hello@randomquotegen.com`.
+Have a suggestion, question, or just want to say hi? Reach out to us at `sbhunia2903@gmail.com`.
 
 Remember, **inspiration is just a click away**. Let's get quoting! 💬✨
