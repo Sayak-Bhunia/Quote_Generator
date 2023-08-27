@@ -18,7 +18,7 @@ Feeling stuck? Need a burst of motivation? Look no further! This web application
 
 ## 🌈 How to Use:
 
-1. Simply head to our website: [QuoteGen.com]([https://sayak-bhunia.github.io/Quote_Generator/](https://sayak-bhunia.github.io/quotegen/))
+1. Simply head to our website: [QuoteGen.com](https://sayak-bhunia.github.io/quotegen/)
 2. Click the "Generate Quote" button to uncover a treasure trove of wisdom.
 3. Feeling the quote? Share it or save it for later – the power is in your hands!
 
